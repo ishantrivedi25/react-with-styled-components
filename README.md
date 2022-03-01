@@ -24,7 +24,7 @@ The React project structure which helps you to start building your own applicati
 ├── components
 ├── pages
 ├── redux
-│	├── combineReducers.js
+│   ├── combineReducers.js
 │   └── store.js
 ├── routes
 │   └── router.js

@@ -4,7 +4,7 @@ The React project structure which helps you to start building your own applicati
 
 # Features
 - Global State Management with [Redux Persist](https://github.com/rt2zz/redux-persist)
-- CSS styling with [Styled Component](https://styled-components.com/)
+- CSS styling with [Styled Components](https://styled-components.com/)
 - Route Management with [React-Router-v6](https://reactrouter.com/)
 - Solid API Integration setup with [Axios](https://axios-http.com/)
 - Error handling with Error Boundary implementation
